@@ -1,5 +1,7 @@
 #include <iostream>
 
+int playerNumPick;
+
 int main() {
 
 //Slapjacky says: what a mess
